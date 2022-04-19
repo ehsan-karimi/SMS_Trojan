@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303844389305",
+    "project_id": "testsms-a55da",
+    "storage_bucket": "testsms-a55da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303844389305:android:061c635c022f4fdd4e0668",
+        "android_client_info": {
+          "package_name": "com.example.testsms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303844389305-e1r6mp183p40i11muv7v4kehgevbpb51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR024jLxfdNT2C35T18Qha5R_SfhkP5vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303844389305-e1r6mp183p40i11muv7v4kehgevbpb51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
